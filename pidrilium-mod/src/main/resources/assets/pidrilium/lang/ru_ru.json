@@ -1,0 +1,15 @@
+{
+  "block.pidrilium.pidrilium_ore": "Пидриловая руда",
+  "block.pidrilium.pidrilium_block": "Пидриловый блок",
+  "item.pidrilium.raw_pidrilium": "Сырой пидрилий",
+  "item.pidrilium.pidrilium_ingot": "Пидриловый слиток",
+  "item.pidrilium.pidrilium_sword": "Пидриловый меч",
+  "item.pidrilium.pidrilium_pickaxe": "Пидриловая кирка",
+  "item.pidrilium.pidrilium_axe": "Пидриловый топор",
+  "item.pidrilium.pidrilium_shovel": "Пидриловая лопата",
+  "item.pidrilium.pidrilium_hoe": "Пидриловая мотыга",
+  "item.pidrilium.pidrilium_helmet": "Пидриловый шлем",
+  "item.pidrilium.pidrilium_chestplate": "Пидриловый нагрудник",
+  "item.pidrilium.pidrilium_leggings": "Пидриловые поножи",
+  "item.pidrilium.pidrilium_boots": "Пидриловые ботинки"
+}

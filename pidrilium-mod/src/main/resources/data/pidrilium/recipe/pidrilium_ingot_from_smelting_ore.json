@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": "pidrilium:pidrilium_ore",
+  "result": {
+    "id": "pidrilium:pidrilium_ingot"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

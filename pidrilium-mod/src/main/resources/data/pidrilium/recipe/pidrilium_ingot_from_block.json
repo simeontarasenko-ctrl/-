@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "pidrilium:pidrilium_block"
+  ],
+  "result": {
+    "id": "pidrilium:pidrilium_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": "pidrilium:pidrilium_ingot",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "XXX",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "id": "pidrilium:pidrilium_pickaxe",
+    "count": 1
+  }
+}
